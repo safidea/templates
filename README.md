@@ -1,4 +1,4 @@
-# templates
+# Safidea Templates
 
 To install dependencies:
 
@@ -6,10 +6,26 @@ To install dependencies:
 bun install
 ```
 
-To run:
+To open an app folder
 
 ```bash
-bun run index.ts
+cd apps/<app-name>
 ```
 
-This project was created using `bun init` in bun v1.1.13. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+To dev an app:
+
+```bash
+bun run dev
+```
+
+To build an app:
+
+```bash
+bun run build
+```
+
+To run an app:
+
+```bash
+bun run start
+```
