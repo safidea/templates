@@ -6,12 +6,6 @@
   "workspaces": [
     "apps/*"
   ],
-  "scripts": {
-    "build": "bun run build:packages",
-    "build:packages": "bun run --parallel build",
-    "lint": "bun run lint:packages",
-    "lint:packages": "bun run --parallel lint"
-  },
   "devDependencies": {
     "@types/bun": "latest",
     "prettier": "^3.3.2"
