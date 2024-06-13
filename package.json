@@ -1,0 +1,27 @@
+{
+  "name": "templates",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "bun run build:packages",
+    "build:packages": "bun run --parallel build",
+    "lint": "bun run lint:packages",
+    "lint:packages": "bun run --parallel lint"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.3.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "bun": "1.1.13",
+    "node": "20.11.1",
+    "npm": "10.2.4"
+  }
+}
