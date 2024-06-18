@@ -1,4 +1,4 @@
-# templates
+# Landing Page
 
 To install dependencies:
 
