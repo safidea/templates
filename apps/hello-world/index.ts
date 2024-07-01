@@ -22,4 +22,4 @@ const url = await app.start({
   ],
 })
 
-console.log(`Server started at ${url}`)
+console.log(`Hello world server started at ${url}`)
