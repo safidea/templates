@@ -20,7 +20,8 @@ export const blog: Page = {
           buttons: [],
         },
         {
-          component: 'Columns',
+          component: 'Grid',
+          columns: 3,
           children: posts.map((post) => card(post)),
         },
       ],

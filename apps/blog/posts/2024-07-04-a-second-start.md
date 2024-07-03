@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis, sem sit a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vestibulum dapibus nibh. Nullam lobortis risus eu nisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
-![Lorem Ipsum](https://example.com/posts/2024-07-03-lorem-ipsum.png)
+![Lorem Ipsum](https://picsum.photos/200/300)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
 
