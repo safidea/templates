@@ -15,10 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim conval
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. 
 
-1. **Typography:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-2. **Web Design:** Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. 
-3. **Graphic Design:** Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
 ## The Impact of Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac felis sit amet ligula pharetra condimentum. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 

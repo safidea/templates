@@ -5,6 +5,15 @@ import { posts } from '../posts'
 export const blog: Page = {
   name: 'blog',
   path: '/',
+  head: {
+    title: 'Blog',
+    metas: [
+      {
+        name: 'description',
+        content: 'Welcome to my blog!',
+      },
+    ],
+  },
   body: [
     {
       component: 'Container',
