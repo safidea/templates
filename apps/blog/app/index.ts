@@ -14,4 +14,10 @@ export const app: App = {
   server: {
     port: '$PORT',
   },
+  theme: {
+    fontFamily: {
+      sans: ['Barlow'],
+      serif: ['Merriweather'],
+    },
+  },
 }

@@ -10,7 +10,7 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "@safidea_/engine": "^0.16.1",
+    "@safidea_/engine": "^0.17.3",
     "dotenv": "^16.4.5",
     "jsdom": "^24.1.0"
   },

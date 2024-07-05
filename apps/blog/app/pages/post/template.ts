@@ -60,6 +60,7 @@ export const template = (post: Post): Page => ({
         {
           component: 'Markdown',
           content: post.content,
+          font: 'serif',
         },
       ],
     },
